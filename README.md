@@ -14,7 +14,7 @@ public String getSafeImage() throws IOException, InterruptedException {
 }
 ```
 
-Availible endpoints: MAID, LEWD, SUGGESTIVE *(**DO NOT** use the ones that start with ``LOCAL``, there are made for local tests)*
+Available endpoints: MAID, LEWD, SUGGESTIVE *(**DO NOT** use the ones that start with ``LOCAL``, there are made for local tests)*
 
 # Download
 
