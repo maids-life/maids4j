@@ -26,3 +26,6 @@ Maven:
     <version>VERSION</version>
 </dependency>
 ```
+
+# Requirements
+Java 11 lol
